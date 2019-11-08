@@ -4,7 +4,7 @@
 
 a) O(n)
 
-b) O(n^2)
+b) O(nlog(n))
 
 c) O(n)
 
